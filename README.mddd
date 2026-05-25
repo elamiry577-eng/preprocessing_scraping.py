@@ -1,0 +1,12 @@
+# Preprocessing & Scraping Data Project
+
+This project uses Python, Pandas and BeautifulSoup to scrape data from a website and clean it.
+
+## Tools Used
+- Python
+- Pandas
+- BeautifulSoup
+- Requests
+
+## Output
+- Clean dataset ready for analysis
